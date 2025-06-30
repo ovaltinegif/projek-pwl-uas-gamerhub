@@ -3,7 +3,7 @@
 Ini adalah proyek untuk Ujian Akhir Semester mata kuliah Pemrograman Web Lanjut.
 
 **Anggota Kelompok:**
-- Agung SI
+- Agung 
 - Gerry
 - Nabilla
 - Nadya
