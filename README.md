@@ -1,6 +1,20 @@
 # Proyek UAS - Website Rental PS "GamerHub"
 
-*GamerHub* adalah aplikasi web fungsional yang dibuat untuk memenuhi Ujian Akhir Semester mata kuliah Pemrograman Web Lanjut. Aplikasi ini mensimulasikan platform penyewaan (rental) konsol PlayStation dan video game, di mana pengguna dapat mendaftar, menelusuri produk, melakukan penyewaan, dan mengelola akun mereka.
+Proyek UAS - Website Rental PS "GamerHub"
+GamerHub adalah aplikasi web fungsional yang dibuat untuk memenuhi Ujian Akhir Semester mata kuliah Pemrograman Web Lanjut. Aplikasi ini mensimulasikan platform penyewaan (rental) konsol PlayStation dan video game, di mana pengguna dapat mendaftar, menelusuri produk, melakukan penyewaan, dan mengelola akun mereka.
+
+👥 Tim Pengembang
+Proyek ini disusun dan dikembangkan oleh:
+
+Bngkit Agung N (A12.2023.07089)
+
+Theodorus Gerry (A12.2023.07008)
+
+Nabilla Zahra Diyas (A12.2023.07026)
+
+Muhammad Dzaky Hamid (A12.2023.07109)
+
+Nadya Laksitaningtyas (A12.2023.07100)
 
 ## ✨ Fitur Utama
 
