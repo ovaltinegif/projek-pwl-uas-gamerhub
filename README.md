@@ -79,8 +79,8 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal:
 
 ## 👥 Anggota Kelompok
 
-1.Bangkit Agung N (A12.2023.07089) 
-2.Theodorus Gerry (A12.2023.07008) 
-3.Nabilla Zahra Diyas (A12.2023.07026) 
-4.Muhammad Dzaky Hamid (A12.2023.07109)
+1.Bangkit Agung N 	(A12.2023.07089) 
+2.Theodorus Gerry 	(A12.2023.07008) 
+3.Nabilla Zahra Diyas 	(A12.2023.07026) 
+4.Muhammad Dzaky Hamid 	(A12.2023.07109)
 5.Nadya Laksitaningtyas (A12.2023.07100)
